@@ -5,11 +5,11 @@ var menu = `
 </nav>
 `
 
-var footer = `
-<a href="https://scholar.google.com/citations?user=zhkj1RUAAAAJ">Google Scholar</a>,
-<a href="http://orcid.org/0000-0002-0376-1708">ORCID</a>,
-<a href="http://fb.com/radost.waszkiewicz">Facebook</a>
-`
+// var footer = `
+// <a href="https://scholar.google.com/citations?user=zhkj1RUAAAAJ">Google Scholar</a>,
+// <a href="http://orcid.org/0000-0002-0376-1708">ORCID</a>,
+// <a href="http://fb.com/radost.waszkiewicz">Facebook</a>
+// `
 
 function setup_header_and_footer(active)
 {
