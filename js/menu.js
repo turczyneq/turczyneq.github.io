@@ -1,7 +1,7 @@
 var menu = `
 <nav class="nav nav-masthead justify-content-center">
     <a class="nav-link" id="index" href="./index.html">Home</a>
-    <a class="nav-link" id="my_work" href="./my_work.html">My work</a>
+    <a class="nav-link" id="my_work" href="./my_work.html">Publications</a>
     <a class="nav-link" id="favourite_biological_plots" href="./biology.html">Favourite biological plots</a>
 </nav>
 `
